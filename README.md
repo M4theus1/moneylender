@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de `README.md` simples e profissional para o seu projeto **MoneyLender**, com base no que você mostrou até agora:
-
----
 
 ```markdown
 # 💰 MoneyLender
